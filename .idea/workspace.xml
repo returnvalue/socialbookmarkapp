@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b60fdbcd-9ac4-4c4f-9f7c-f72ea9867b9a" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="phpleaks" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user</find>
+      <find>?&gt;</find>
+      <find>ide</find>
+      <find>_</find>
+      <find>Providers\BusServiceProvider</find>
+      <find>DispatchesCommands</find>
+      <find>findbyslug</find>
+      <find>slug</find>
+      <find>('slug', $category)</find>
+      <find>popular</find>
+      <find>cate</find>
+      <find>trending</find>
+      <find>newest</find>
+      <find>mostclicks</find>
+      <find>$category</find>
+      <find>@create</find>
+      <find>debugb</find>
+      <find>link.</find>
+      <find>update</find>
+      <find>create</find>
+      <find>tre</find>
+      <find>var_dump</find>
+      <find>search</find>
+      <find>auth</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>source</replace>
+      <replace>includeTrashed</replace>
+      <replace>DispatchesJobs</replace>
+    </replaceStrings>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectId" id="1PkWQE8IlW8m77KPt0dEGI4IdxK" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PHP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="overwrite&#9;ACTION&#9;EditorToggleInsertState&#10;DispatchesCommands&#9;null&#9;null&#10;plugins&#9;null&#9;null&#10;wrap&#9;null&#9;null&#10;templates&#9;null&#9;null&#10;appearance&#9;null&#9;null&#10;code style&#9;ACTION&#9;ChangeCodeStyleScheme&#10;belongstomany&#9;null&#9;null&#10;lists&#9;null&#9;null&#10;attach&#9;null&#9;null&#10;passwordreset&#9;null&#9;null" />
+    <property name="options.lastSelected" value="preferences.sourceCode.PHP" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\localdev\phpleaks\resources\views\link" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b60fdbcd-9ac4-4c4f-9f7c-f72ea9867b9a" name="Default" comment="" />
+      <created>1433423830394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1433423830394</updated>
+      <workItem from="1464289689628" duration="2508000" />
+      <workItem from="1464364736778" duration="5226000" />
+      <workItem from="1464976323877" duration="1153000" />
+      <workItem from="1465222743358" duration="10000" />
+      <workItem from="1469129394869" duration="1446000" />
+      <workItem from="1475761359234" duration="2244000" />
+      <workItem from="1476457789445" duration="5717000" />
+      <workItem from="1476464618284" duration="65000" />
+      <workItem from="1476797496951" duration="670000" />
+      <workItem from="1480531727692" duration="5991000" />
+      <workItem from="1481040014694" duration="5076000" />
+      <workItem from="1481137361519" duration="16083000" />
+      <workItem from="1481206891263" duration="17392000" />
+      <workItem from="1481300922322" duration="22581000" />
+      <workItem from="1481390168077" duration="9356000" />
+      <workItem from="1481563273374" duration="6628000" />
+      <workItem from="1481576820449" duration="786000" />
+      <workItem from="1481651700088" duration="2864000" />
+      <workItem from="1481923359132" duration="2223000" />
+      <workItem from="1484145526497" duration="2616000" />
+      <workItem from="1493221329194" duration="506000" />
+      <workItem from="1493230392370" duration="378000" />
+      <workItem from="1566418560534" duration="1275000" />
+      <workItem from="1575309619905" duration="975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+License
+
+PHPLeaks.com is a link aggregation website created for the benefit of PHP developers. It was created by W. Jason Gilmore (wj@wjgilmore.com) of WJGilmore, LLC (http://www.wjgilmore.com).
+
+Purchasers of the PHPLeaks Project Code and Developer's Guide may use and adapt the project code for educational purposes. Please do not redistribute the code or the developer's guide, or deploy the project to a publicly accessible web server.
+
+If you have any questions, e-mail Jason at wj@wjgilmore.com.
+
+Thank you,
+Jason
+
+
